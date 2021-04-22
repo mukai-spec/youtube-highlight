@@ -6,7 +6,7 @@ Vtuberのライブ配信を見ていて、忙しい人に向けたライブ配�
 
 出力：ハイライト動画
 
-
+<img width="419" alt="図1" src="https://user-images.githubusercontent.com/67949305/115666750-eac6c000-a37f-11eb-81ad-f5d9cac3427e.png">
 
 盛り上がりの定義：
 
