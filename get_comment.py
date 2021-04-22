@@ -6,7 +6,11 @@ import json
 import re
 import os
 
-###コメント取得
+###YouTubeの動画のコメントを取得するための関数
+###下のほうにある　get_chat_replay_data　をすかってコメント取得する
+###入力：video_id
+###出力：コメントの情報
+
 class ContinuationURLNotFound(Exception):
    pass
 

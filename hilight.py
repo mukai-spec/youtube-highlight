@@ -19,7 +19,7 @@ import get_comment
 import make_folder as ma
 
 ###GUI表示、youtube_urlを入力
-youtube_url = gui.main()
+youtube_url,word = gui.main()
 #youtube_url = youtube_url
 
 ###video_idを取得
