@@ -19,4 +19,6 @@ Vtuberのライブ配信を見ていて、忙しい人に向けたライブ配�
 
 https://note.com/or_ele/n/nd46e110173fd
 
+https://murabitoleg.com/youtube-recommend/
+
 
